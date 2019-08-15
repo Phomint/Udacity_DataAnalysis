@@ -1,17 +1,15 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Prosper loan data exploration
+## by Patrick Amaral
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
+> This dataset is provided by Prosper, Prosper was founded in 2005 and was the first in the US use the method peer-to-peer for a loan, people can invest in each other, individuals and institutions can invest in the loans and earn attractive returns. The dataset has 81 variables but for this analysis, I use just 7, my main goal is to build a profile most common to get a loan. 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
+> In this analysis I figure out about the motivation to people get a loan and which term they prefer and understand how is the relationship with the loan amount for each score and rating.
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> Understand what motivates people to get a loan and what help and facilitate this.
